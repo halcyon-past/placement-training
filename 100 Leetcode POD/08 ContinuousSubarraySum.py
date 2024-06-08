@@ -42,7 +42,7 @@ Constraints:
 """
 
 class Solution:
-    def checkSubarraySum(self, nums: List[int], k: int) -> bool:
+    def checkSubarraySum(self, nums: list[int], k: int) -> bool:
         n=len(nums)
         if n<2: return False
         mod_k={}
