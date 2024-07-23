@@ -13,6 +13,7 @@ Since placement season is coming I will be learning and practicing Data Structur
 - [03 Bitwise XOR](./03%20Bitwise%20XOR/)
 - [04 Linked List](./04%20Linked%20List/)
 - [05 Trees](./05%20Trees/)
+- [06 Stacks](./06%20Stack%20Data%20Structure/)
 
 
 ## Bonus Content
