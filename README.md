@@ -14,6 +14,8 @@ Since placement season is coming I will be learning and practicing Data Structur
 - [04 Linked List](./04%20Linked%20List/)
 - [05 Trees](./05%20Trees/)
 - [06 Stacks](./06%20Stack%20Data%20Structure/)
+- [07 Strings](./07%20Strings/)
+- [08 Hashmap](./08%20Hashmap/)
 
 ## Leetcode Interview 150
 
