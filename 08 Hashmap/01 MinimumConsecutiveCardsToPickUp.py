@@ -29,6 +29,8 @@ Constraints:
 0 <= cards[i] <= 106
 """
 
+from typing import List
+
 class Solution:
     def minimumCardPickup(self, cards: List[int]) -> int:
         uni=set(cards)
@@ -43,3 +45,11 @@ class Solution:
             else:
                 d[cards[i]]=i
         return mini
+
+# Test Cases
+
+test = Solution()
+assert test.minimumCardPickup([3,4,2,3,4,7]) == 4
+assert test.minimumCardPickup([1,0,5,3]) == -1
+
+print("All tests passed")
