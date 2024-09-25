@@ -49,6 +49,8 @@ Constraints:
 words[i] consists of lowercase English letters.
 """
 
+from typing import List
+
 class Trie:
     def __init__(self):
         self.score = 0
