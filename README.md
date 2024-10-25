@@ -44,7 +44,10 @@ Since placement season is coming I will be learning and practicing Data Structur
 - [22 1D DP](./102%20Leetcode%20Top%20Interview%20150/22%20One%20Dimensional%20DP/)
 - [23 Multidimensional DP](./102%20Leetcode%20Top%20Interview%20150/23%20Multidimensional%20DP/)
 
+## IPYNB Files
 
+- [OOPS Cheat Sheet](./Object_Oriented_Programing_in_Python.ipynb)
+- [DSA Cheat Sheet](./DSA_CheatSheet_Python.ipynb)
 
 ## Bonus Content
 
