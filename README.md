@@ -1,5 +1,7 @@
 # Placement Training
 
+![Banner](./999%20Assets/banner.jpg)
+
 Since placement season is coming I will be learning and practicing Data Structures and Algorithms and maintain this repository for future reference, all the topics or questions that I practice during this session would be updated here.
 
 ### Note
