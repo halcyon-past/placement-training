@@ -37,6 +37,8 @@ Constraints:
 0 <= arr[i] <= 109
 """
 
+from typing import List
+
 class Solution:
     def findLengthOfShortestSubarray(self, arr: List[int]) -> int:
         max_left_length = next((i for i in range(1, len(arr)) if arr[i] < arr[i - 1]), len(arr))
@@ -52,3 +54,12 @@ class Solution:
             if arr[right] < arr[right - 1]:
                 break
         return result
+
+# Test Cases
+
+test = Solution()
+assert test.findLengthOfShortestSubarray([1,2,3,10,4,2,3,5]) == 3
+assert test.findLengthOfShortestSubarray([5,4,3,2,1]) == 4
+assert test.findLengthOfShortestSubarray([1,2,3]) == 0
+
+print("All passed")
